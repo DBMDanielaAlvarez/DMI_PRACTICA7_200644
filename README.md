@@ -38,18 +38,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/iconoInicial.jpg" width="30%"/>
-  <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/principalInicial.jpg" width="30%"/>
-  <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/drawerInicial.jpg" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/iconoInicial.jpg" width="20%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/principalInicial.jpg" width="20%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/drawerInicial.jpg" width="20%"/>
 </p>
 <p>
   Para los cambios de se agregan los colores Morado en la barra de navegación, asi como se cambió la tipografiea por la fuente AmaticSC y el cambio del icono por el de una cámara de cine (haciendo referencia al cine).
 </p>
 
 <p>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/iconoFinal.jpg" width="30%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/principalFinal.jpg" width="30%"/>
-<img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/drawerInicial.jpg" width="30%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/iconoFinal.jpg" width="20%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/principalFinal.jpg" width="20%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/drawerInicial.jpg" width="20%"/>
 </p>
 
 
