@@ -42,8 +42,10 @@
   <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/principalInicial.jpg" width="30%"/>
   <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/drawerInicial.jpg" width="30%"/>
 </p>
+<p>
+  Para los cambios de se agregan los colores Morado en la barra de navegación, asi como se cambiea la tipografiea por la fuente
+</p>
 
-Para los cambios de estado, se muestran los siguientes datos, que se encuentran en un arreglo de datos.
 <p>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/dos.jpg" width="15%"/>
 <img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/tres.jpg" width="15%"/>
