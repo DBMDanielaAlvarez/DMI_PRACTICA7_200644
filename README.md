@@ -36,9 +36,9 @@
 Las siguientes imagenes son la muestra de la salida de datos en la primer parte de estra práctica, es decir, con los colores por defecto asi como las fuentes e iconos preestablecidos.
 
 <p align="center">
-  <img src="" width="30%"/>
-  <img src="" width="30%"/>
-  <img src="" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/iconoInicial.jpg" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/principalInicial.jpg" width="30%"/>
+  <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/drawerInicial.jpg" width="30%"/>
 </p>
 
 Para los cambios de estado, se muestran los siguientes datos, que se encuentran en un arreglo de datos.
