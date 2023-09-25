@@ -1,16 +1,58 @@
-# movieapp_200644
+# DMI_PRACTICA7_200644
 
-A new Flutter project.
+[![Encabezado.png](https://i.postimg.cc/PJKtvHNC/Encabezado.png)](https://postimg.cc/K3kXCdPb)
 
-## Getting Started
+<div align="center">
+  
+# Universidad Tecnológica de Xicotepec de Juárez
 
-This project is a starting point for a Flutter application.
+## Ingeniería en Desarrollo y Gestión de Software
 
-A few resources to get you started if this is your first Flutter project:
+## Desarrollo Movil Integral
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Daniela Álvarez Ramírez
+ 
+## 10° "A"
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Septiempre - Diciembre
+
+
+&nbsp;
+&nbsp;
+|  Característica |  Información |
+| :------------: | :------------: |
+| Nombre  |  Práctica 7: Movie App |
+| Descripción  |  En esta aplicación se comienza el contexto de peliculas, en el cual se tiene que presentar un Drawer y un bottomNavigationBar. Para despues ser conectada a la API de MOVIEDB. Para esto, se hacen modificaciones de estilización. Como cambio de colores, cambio de fuente y un icono diferente al trabajado en practicas anteriores. |
+|  Fecha de Actividad  |  20 de Septiembre de 2023  |
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+## Salida
+
+Las siguientes imagenes son la muestra de la salida de datos en la primer parte de estra práctica, es decir, con los colores por defecto asi como las fuentes e iconos preestablecidos.
+
+<p align="center">
+  <img src="" width="30%"/>
+  <img src="" width="30%"/>
+  <img src="" width="30%"/>
+</p>
+
+Para los cambios de estado, se muestran los siguientes datos, que se encuentran en un arreglo de datos.
+<p>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/dos.jpg" width="15%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/tres.jpg" width="15%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/cuatro.jpg" width="15%"/>
+<img src="https://github.com/Daniela06112002/DMI_PRACTICA6_200644/blob/main/screenshots/cinco.jpg" width="15%"/>
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+[![Pie-de-Practica.jpg](https://i.postimg.cc/MKKZ2nrV/Pie-de-Practica.jpg)](https://postimg.cc/WtCc01V1)
