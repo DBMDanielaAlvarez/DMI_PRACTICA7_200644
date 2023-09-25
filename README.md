@@ -32,8 +32,10 @@
 &nbsp;
 
 ## Salida
+<p align="justify">
+  Las siguientes imagenes son la muestra de la salida de datos en la primer parte de estra práctica, es decir, con los colores por defecto asi como las fuentes e iconos preestablecidos.
 
-Las siguientes imagenes son la muestra de la salida de datos en la primer parte de estra práctica, es decir, con los colores por defecto asi como las fuentes e iconos preestablecidos.
+</p>
 
 <p align="center">
   <img src="https://github.com/Daniela06112002/DMI_PRACTICA7_200644/blob/main/screenshots/iconoInicial.jpg" width="30%"/>
